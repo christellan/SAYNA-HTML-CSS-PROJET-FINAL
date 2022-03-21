@@ -1,0 +1,39 @@
+label{
+    color: black;
+    font-weight: bold;
+}
+.form-group{
+    margin: 5px;
+}
+.ssmenu{
+    padding: 30px;
+    text-align: center;
+    background-color: beige;
+}
+.card{
+    padding: 20px;
+    height: 200px;
+    margin: 10px;
+}
+.one{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.to{
+    color: red;
+    padding: 50px;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+.footer{
+    background-color: black;
+    padding: 70px;
+    text-align: center;
+}
+a{
+    margin: 10px;
+}
+.marge{
+    margin: 30px;
+    width: 450px;
+}

@@ -1,0 +1,75 @@
+span{
+    padding: 20px;
+    margin: 10px;
+    color: aliceblue;
+    font-size: 13px;
+}
+
+.r{
+    margin-left: 800px;
+}
+.menu{
+    padding-top: 12px;
+    text-align: center;
+    height: 50px;
+    background-color: red;
+}
+.tsearch{
+    font-size: 24px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.search{
+    background-color: beige;
+    padding: 20px;
+    opacity: 0.7;
+}
+.corp{
+    background-color: red;
+    background: no-repeat;
+    background-size: contain;
+}
+.how{
+    margin-top: 20px;
+    opacity: 0.7;
+}
+.stt{
+    color: coral;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.sousflex{
+    display: flex;
+    text-align: center;
+}
+nav{
+    width: 670px;
+}
+.footer1{
+    margin: 20px;
+    background-color: orangered;
+}
+footer{
+    color: aliceblue;
+
+}
+.g{
+border-radius :1000px ;
+}
+.footer2{
+color:aliceblue;
+margin: 20px;
+background-color:grey;
+}
+.footer3{
+    color: aliceblue;
+    margin: 20px;
+    background-color:blue;
+}
+.footer4{
+    color: azure;
+    margin: 20px;
+    background-color: rgb(46, 45, 45);
+}
